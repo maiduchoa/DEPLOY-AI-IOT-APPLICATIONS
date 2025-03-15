@@ -1,0 +1,14 @@
+2025-03-12 10:15:53,952 - WARNING - From e:\AI-IOT\venv\Lib\site-packages\keras\src\backend\tensorflow\core.py:219: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2025-03-12 10:16:00,488 - INFO - 5. Tính toán metrics...
+2025-03-12 10:16:00,640 - INFO - Warmup...
+2025-03-12 10:16:07,742 - INFO - 7. Tính toán FLOPS...
+2025-03-12 10:16:08,422 - WARNING - From E:\AI-IOT\model_metrics.py:150: The name tf.profiler.ProfileOptionBuilder is deprecated. Please use tf.compat.v1.profiler.ProfileOptionBuilder instead.
+
+2025-03-12 10:16:08,425 - WARNING - From e:\AI-IOT\venv\Lib\site-packages\tensorflow\python\profiler\internal\flops_registry.py:140: tensor_shape_from_node_def_name (from tensorflow.python.framework.graph_util_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+This API was designed for TensorFlow v1. See https://www.tensorflow.org/guide/migrate for instructions on how to migrate your code to TensorFlow v2.
+2025-03-12 10:16:51,984 - INFO - Accuracy: 0.9214
+2025-03-12 10:16:51,984 - INFO - Precision (weighted): 0.9218
+2025-03-12 10:16:51,984 - INFO - Recall (weighted): 0.9214
+2025-03-12 10:16:51,984 - INFO - F1-score (weighted): 0.9203

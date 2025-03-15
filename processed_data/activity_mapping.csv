@@ -1,0 +1,7 @@
+activity,numeric_label
+standing,0
+sitting,1
+walking,2
+jogging,3
+falling,4
+jumping,5
